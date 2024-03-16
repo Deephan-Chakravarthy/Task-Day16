@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to bottom , orange, white 56%, green 99%);
+
+}
+
+h1{
+    text-align: center;
+    font-size: 120px;
+    margin-top:280px;
+    margin-bottom: 300px;
+    color: blue;
+}
