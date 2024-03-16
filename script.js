@@ -1,6 +1,7 @@
 var h1 = document.createElement("h1");
 document.body.append(h1);
 
+
 setTimeout(function() {
     document.querySelector("h1").innerHTML = "Counter: 10";
     setTimeout(function() {
